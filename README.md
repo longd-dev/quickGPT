@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/longd-dev/quickGPT)
 ![GitHub license](https://img.shields.io/github/license/longd-dev/quickGPT)
 ![Made with React](https://img.shields.io/badge/Made%20with-React-blue)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://vercel.com/longd-devs-projects/quick-gpt/F1q9mgGCSSS6TBUUsTE72BMJS5NV)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://quick-fs6jy84ei-longd-devs-projects.vercel.app/)
 
 QuickGPT is a full-stack AI application featuring intelligent conversations powered by Google Gemini, image generation with ImageKit, and a credit system managed via Stripe. Designed with React, Tailwind CSS, and Node.js for a responsive and user-friendly experience.
 
