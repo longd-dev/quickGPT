@@ -34,7 +34,7 @@ QuickGPT is a full-stack AI application featuring intelligent conversations powe
 
 ## ⚡ Live Demo
 
-[QuickGPT live](https://vercel.com/longd-devs-projects/quick-gpt/F1q9mgGCSSS6TBUUsTE72BMJS5NV) 🚀
+[QuickGPT live](https://quick-fs6jy84ei-longd-devs-projects.vercel.app/) 🚀
 
 ---
 
