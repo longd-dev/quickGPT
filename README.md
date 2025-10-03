@@ -1,19 +1,37 @@
-QuickGPT
+# QuickGPT 🚀
 
-QuickGPT is a full-stack MERN application that integrates advanced AI capabilities, including Google Gemini AI for intelligent conversations, ImageKit for seamless image generation, and Stripe for secure payment processing. The app is designed with a user-friendly interface using React and Tailwind CSS, ensuring a smooth and responsive experience.
+![GitHub repo size](https://img.shields.io/github/repo-size/longd-dev/quickGPT)
+![GitHub issues](https://img.shields.io/github/issues/longd-dev/quickGPT)
+![GitHub license](https://img.shields.io/github/license/longd-dev/quickGPT)
+![Made with React](https://img.shields.io/badge/Made%20with-React-blue)
 
-Features
-	•	AI-Powered Chat: Engage in dynamic conversations with Google Gemini AI.
-	•	Image Generation: Create unique images effortlessly using ImageKit.
-	•	Credit Management: Manage and purchase credits via Stripe integration.
-	•	User Authentication: Secure login and registration with JWT and bcryptjs.
-	•	Responsive Design: Optimized for both desktop and mobile devices.
+QuickGPT is a full-stack AI application featuring intelligent conversations powered by Google Gemini, image generation with ImageKit, and a credit system managed via Stripe. Designed with React, Tailwind CSS, and Node.js for a responsive and user-friendly experience.
 
-Technologies Used
-	•	Frontend: React, Tailwind CSS, Vite
-	•	Backend: Node.js, Express.js, MongoDB, Mongoose
-	•	Authentication: JWT, bcryptjs
-	•	AI Integration: Google Gemini API
-	•	Image Generation: ImageKit
-	•	Payment Processing: Stripe
-	•	Deployment: Vercel (Frontend), Vercel (Backend)
+---
+
+## ✨ Features
+
+- 🤖 **AI-Powered Chat** – Interact with Google Gemini AI in real time.
+- 🖼️ **Image Generation** – Create AI-generated images effortlessly.
+- 💳 **Credit Management** – Buy and manage credits securely with Stripe.
+- 🔒 **Authentication** – Secure login and registration with JWT.
+- 📱 **Responsive Design** – Works perfectly on desktop and mobile.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Tailwind CSS, Vite  
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose  
+- **Authentication:** JWT, bcryptjs  
+- **AI Integration:** Google Gemini API  
+- **Image Generation:** ImageKit  
+- **Payments:** Stripe  
+- **Deployment:** Vercel (Frontend & Backend)
+
+---
+
+## ⚡ Demo
+
+![Live link](https://vercel.com/longd-devs-projects/quick-gpt/F1q9mgGCSSS6TBUUsTE72BMJS5NV)  
+
