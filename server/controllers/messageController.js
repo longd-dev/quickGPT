@@ -81,7 +81,7 @@ export const imageMessageController = async (req, res) => {
     // Construct ImageKit AI generation URL
     const generatedImageUrl = `${
       process.env.IMAGE_KIT_URL_ENDPOINT
-    }/ik-genimg-prompt-${encodedPrompt}/quickgpt/${Date.now()}.png?tr=w-800,h-800`;
+    }/ik-genimg/quickgpt/${Date.now()}.png?prompt=${encodedPrompt}&tr=w-800,h-800`;
 
     console.log(generatedImageUrl);
     // Trigger generation by fetching from ImageKit

@@ -62,7 +62,7 @@ export const getUser = async (req, res) => {
 };
 
 // API to get published images
-export const getPublishedImages = async (params) => {
+export const getPublishedImages = async (req, res) => {
   try {
     const publishedImageMessages = await Chat.aggregate([
       { $unwind: "$messages" },
